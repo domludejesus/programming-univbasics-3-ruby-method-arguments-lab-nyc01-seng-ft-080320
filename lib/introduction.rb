@@ -23,9 +23,7 @@ end
   
 end 
 
-introduction("charlie")
-introduction_with_language("james", "Java")
-introduction_with_language_optional("Mark" )
+
   
 
 
