@@ -23,9 +23,9 @@ end
   
 end 
 
-introduction
-introduction_with_language
-introduction_with_language_optional
+introduction("charlie")
+introduction_with_language("james", "Java")
+introduction_with_language_optional("Mark" )
   
 
 
